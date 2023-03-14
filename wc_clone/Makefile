@@ -1,4 +1,4 @@
-CC=gcc
+CC=gcc-12
 CFLAGS=-Wall -Werror -g
 
 all: wc

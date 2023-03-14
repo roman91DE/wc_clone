@@ -4,7 +4,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int get_filepointer(const char* filename);
+int get_filepointer(const char* filename, FILE *fp);
+int print_wc(const char* filename);
 
 
 #endif /* wc_h */
