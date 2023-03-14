@@ -1,11 +1,4 @@
-//
-//  main.c
-//  wc_clone
-//
-//  Created by roman on 13.03.23.
-//
-
-#include <stdio.h>
+#include "wc.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
